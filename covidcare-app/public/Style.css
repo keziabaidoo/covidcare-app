@@ -1,0 +1,35 @@
+.firstContainer{
+    background-color: #e3e3e3;
+    font-weight: bolder;
+   
+}
+.wholeContainer{
+    margin-top: 20px;
+    height: 50%;
+}
+
+.text-form{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-line{
+    margin-top: 15px;
+    
+}
+
+
+.text-outline{
+   align-content: center;
+}
+
+.text-test{
+    margin-top: 10px;
+}
+
+.text-plane{
+     justify-content: center;
+}
+
+.rounded-pill{
+    text-align: center;
+}
